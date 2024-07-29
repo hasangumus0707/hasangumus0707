@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **algorithms and problem solving**
 
-- 💬 Ask me about **C and algorihms**
+- 💬 Ask me about **C and algorithms**
 
 - 📫 How to reach me **gumushasan764@gmail.com**
 
